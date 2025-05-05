@@ -33,10 +33,10 @@ This repository provides a comprehensive solution for time series forecasting us
 ## 📷 Preview
 
 > *Include a screenshot or visualization here for better clarity.*
+![App Screenshot](preview2.png)
 
-![App Screenshot Placeholder]![alt text](image.png)
+![App Screenshot](preview1.png)
 
-![App Screenshot Placeholder]!![alt text](image-1.png)
 ---
 
 ## 🚀 Getting Started
